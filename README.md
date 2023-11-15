@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm eid</h1>
+
 <h3 align="center">I am a frontend end developer from Egypt</h3>
+<p>Hi,My name is eid mahmoud I am a front-end developer engineering</p>
+
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="center">
